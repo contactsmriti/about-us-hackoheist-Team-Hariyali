@@ -1,0 +1,54 @@
+.abc {
+  background: red;
+  height: 800px;
+}
+
+footer {
+  color: white;
+}
+
+footer h2 {
+  text-align: center;
+}
+
+.upfoot {
+  padding-top: 5px;
+  background: #3e2723f0;
+}
+
+.upfoot-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.same1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.instas {}
+
+.linkdins {}
+
+.downfoot {
+  padding: 8px 0;
+  background: #3e2723;
+}
+
+.downfoot-wrapper {}
+
+a {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+a:hover{
+  color: #6bdf9ef0 !important;
+}
+a:active {
+  color: #3e9f6e !important;
+}
+.link {
+  color: white;
+  display: list-item;
+  margin: 4px 18px;
+}
